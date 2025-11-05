@@ -5,7 +5,7 @@ Portfolio and Projects
 
 👀 I’m interested in Data Science
 
-🌱 I’m currently learning Data Science and searching for an entry level job to get hands-on experiences
+🌱 I’m currently learning about Data Science and searching for an entry level job to get hands-on experiences
 
 💞️ I’m looking to collaborate on projects in Agriculture, Environment, Health, Business marketing and more
 
