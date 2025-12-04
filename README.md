@@ -1,7 +1,7 @@
 # Data-Scientist
 ## Portfolio and Projects
 
-👋 Hi, I’m @MarziehSafari
+👋 Hi, I’m Marzieh Safari
 
 👀 I’m interested in Data Science
 
